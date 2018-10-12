@@ -1,1 +1,3 @@
 # EarthShakes
+
+Earthquake is a major demonstration of the power of the tectonic forces. Earthquakes happen very frequently around the globe. Ours is an android based solution to give a quick live update to users about the earthquakes that have happened recently around the globe with numerous flexibility to query historical data of earthquakes their magnitude and area's exposed. We target to provide users with a  all at one place news about earthquakes. Our target is to keep our users updated and instruct them when disasters happen around the location they are in. We believe in the moment of panic, some instructions can help a person cope with the disaster. The app based solution will help the user to be more safe and aware about the natural disasters.
